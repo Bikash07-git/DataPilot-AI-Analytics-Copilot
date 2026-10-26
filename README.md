@@ -1,4 +1,3 @@
-# 🚀 AI Data Studio — Autonomous EDA & Data Science Platform
 <h1 align="center">AI Data Studio</h1>
 
 <h3 align="center">
