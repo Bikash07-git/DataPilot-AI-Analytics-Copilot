@@ -374,21 +374,7 @@ Run a script only if it exists in your checked-out version. For repeatable resul
 
 ---
 
-## 🖼️ Application Screenshots
 
-Add screenshots of the running application to a `docs/screenshots/` directory, then display them here.
-
-For example, after adding the actual files:
-
-```markdown
-![AI Data Studio Dashboard](docs/screenshots/dashboard.png)
-![EDA Results](docs/screenshots/eda-results.png)
-![AI Analytics Agent](docs/screenshots/ai-agent.png)
-```
-
-Use genuine screenshots of the current application rather than mockups.
-
----
 
 ## 👨‍💻 Author
 
