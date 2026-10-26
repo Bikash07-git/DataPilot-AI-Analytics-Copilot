@@ -186,3 +186,8 @@ python backend/tests/verify_server.py
 # 3. Run performance & latency benchmarks
 python backend/tests/benchmark_test.py
 ```
+
+
+## Disclaimer
+
+This project is under active development. AI-generated interpretations may be inaccurate and should be validated against the underlying data.
