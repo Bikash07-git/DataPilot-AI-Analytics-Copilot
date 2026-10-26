@@ -1,27 +1,32 @@
 # 🚀 AI Data Studio — Autonomous EDA & Data Science Platform
+<h1 align="center">AI Data Studio</h1>
 
-\<p align="center">
-&#x20; \<strong>Turn raw datasets into meaningful insights with AI-assisted analytics.\</strong>
-\</p>
+<h3 align="center">
+  Autonomous EDA & Data Science Platform
+</h3>
 
-\<p align="center">
-&#x20; \<a href="[https://datapilot-ai-analytics-copilot.onrender.com/](https://datapilot-ai-analytics-copilot.onrender.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/🚀\_Live_Demo-Open_App-0D9488?style=for-the-badge](https://img.shields.io/badge/🚀_Live_Demo-Open_App-0D9488?style=for-the-badge)" alt="Live Demo">
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Bikash07-git/DataPilot-AI-Analytics-Copilot](https://github.com/Bikash07-git/DataPilot-AI-Analytics-Copilot)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)" alt="GitHub Repository">
-&#x20; \</a>
-\</p>
+<p align="center">
+  Turn raw datasets into meaningful insights with AI-assisted analytics.
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python">
-&#x20; \<img src="[https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square\&logo=fastapi\&logoColor=white)" alt="FastAPI">
-&#x20; \<img src="[https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-18-61DAFB?style=flat-square\&logo=react\&logoColor=black)" alt="React">
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square\&logo=pandas\&logoColor=white)" alt="Pandas">
-&#x20; \<img src="[https://img.shields.io/badge/Google_Gemini-AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white](https://img.shields.io/badge/Google_Gemini-AI-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)" alt="Google Gemini">
-&#x20; \<img src="[https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square\&logo=docker\&logoColor=white)" alt="Docker">
-&#x20; \<img src="[https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white](https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)" alt="Pytest">
-\</p>
+<p align="center">
+  <a href="https://datapilot-ai-analytics-copilot.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_App-0D9488?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/Bikash07-git/DataPilot-AI-Analytics-Copilot">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square" alt="Gemini AI">
+  <img src="https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
+</p>
 
 ---
 
