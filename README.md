@@ -389,6 +389,3 @@ Run a script only if it exists in your checked-out version. For repeatable resul
 
 AI Data Studio is an actively developed portfolio project. Analytical outputs depend on dataset quality, supported operations, and implementation details. Validate important results independently before using them for business or operational decisions.
 
-\<p align="center">
-&#x20; \<strong>Built to make data exploration more accessible, reproducible, and insightful.\</strong>
-\</p>
