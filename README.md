@@ -10,6 +10,9 @@ An end-to-end autonomous data profiling, exploratory data analysis (EDA), intell
 
 ---
 
+## Live Demo
+Link: https://datapilot-ai-analytics-copilot.onrender.com
+
 ## Architecture Overview
 
 ```mermaid
