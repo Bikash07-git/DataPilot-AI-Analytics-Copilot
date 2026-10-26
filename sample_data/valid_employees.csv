@@ -1,0 +1,17 @@
+id,name,department,salary,hire_date,remote,performance_score
+101,Alice Johnson,Engineering,95000.0,2021-03-15,true,4.8
+102,Bob Smith,Marketing,72000.0,2020-07-22,false,3.9
+103,Charlie Brown,Engineering,110000.0,2019-01-10,true,4.9
+104,Diana Prince,Design,84000.0,2022-11-01,true,4.5
+105,Evan Wright,Sales,68000.0,2023-02-14,false,3.7
+106,Fiona Gallagher,Marketing,,2021-08-30,true,4.1
+107,George Clark,Engineering,102000.0,2018-05-19,false,4.6
+108,Hannah Abbott,Design,79000.0,2022-04-12,true,
+109,Ian Malcolm,Sales,71000.0,2020-09-05,false,3.8
+110,Julia Roberts,Engineering,115000.0,2017-12-01,true,5.0
+111,Kevin Hart,Marketing,69000.0,2023-01-18,false,3.6
+112,Laura Croft,Engineering,98000.0,2021-06-25,true,4.7
+101,Alice Johnson,Engineering,95000.0,2021-03-15,true,4.8
+113,Michael Scott,Sales,82000.0,2019-10-10,false,4.0
+114,Nina Simone,Design,,2022-03-01,true,4.4
+

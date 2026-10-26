@@ -1,0 +1,15 @@
+services:
+  ai-data-studio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ai_data_studio_app
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - MAX_FILE_SIZE_MB=50
+    volumes:
+      - ./uploads:/app/uploads
+    restart: unless-stopped
+

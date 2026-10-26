@@ -1,0 +1,12 @@
+order_id,date,category,sub_category,sales_amount,quantity,discount,profit,region
+ORD-001,2024-01-05,Technology,Phones,850.50,2,0.05,120.00,North
+ORD-002,2024-01-07,Furniture,Chairs,240.00,4,0.10,35.50,East
+ORD-003,2024-01-12,Office Supplies,Binders,45.20,5,0.00,12.80,West
+ORD-004,2024-01-15,Technology,Accessories,99.99,1,0.00,28.40,South
+ORD-005,2024-01-18,Furniture,Tables,450.00,1,0.15,-20.00,North
+ORD-006,2024-01-22,Office Supplies,Paper,32.00,8,0.00,9.60,East
+ORD-007,2024-01-25,Technology,Machines,1200.00,1,0.20,180.00,West
+ORD-008,2024-01-29,Furniture,Bookcases,310.00,2,0.10,42.00,South
+ORD-009,2024-02-02,Technology,Phones,920.00,2,0.00,210.00,North
+ORD-010,2024-02-06,Office Supplies,Appliances,150.00,3,0.05,32.00,East
+
