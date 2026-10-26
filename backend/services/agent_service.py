@@ -169,15 +169,20 @@ def run_agent_query(
     matched_cat = [c for c in categorical_cols if c.lower() in q_lower]
     matched_num = [c for c in numeric_cols if c.lower() in q_lower]
 
+    
     agg_func = "mean"
-    if "sum" in q_lower or "total" in q_lower:
-        agg_func = "sum"
-    elif "highest" in q_lower or "max" in q_lower or "top" in q_lower:
-        agg_func = "max"
-    elif "lowest" in q_lower or "min" in q_lower:
-        agg_func = "min"
-    elif "count" in q_lower or "how many" in q_lower:
-        agg_func = "count"
+
+    if any(word in q_lower for word in ["average", "avg", "mean"]):
+            agg_func = "mean"
+    elif any(word in q_lower for word in ["sum", "total"]):
+            agg_func = "sum"
+    elif any(word in q_lower for word in ["highest", "maximum", "max", "top"]):
+            agg_func = "max"
+    elif any(word in q_lower for word in ["lowest", "minimum", "min"]):
+            agg_func = "min"
+    elif any(word in q_lower for word in ["count", "how many"]):
+            agg_func = "count"
+
 
     if matched_cat and matched_num:
         plan.append(PlanStep(
